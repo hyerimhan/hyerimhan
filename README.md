@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hye-rim&fontSize=90" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hye-rim%20Han&animation=fadeIn&fontAlignY=30&fontAlign=70&descAlignY=50&descAlign=77&desc=Hello,%20I'm%20Front-end%20Developer&fontSize=70" />
 
 <div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyerimhan&layout=compact"></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=130&section=footer" />
