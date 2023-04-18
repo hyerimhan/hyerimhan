@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hye-rim%20Han&animation=fadeIn&fontAlignY=30&fontAlign=70&descAlignY=45&descAlign=77.6&desc=Hello,%20I'm%20Front-end%20Developer&fontSize=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hye-rim%20Han&animation=fadeIn&fontAlignY=30&fontAlign=73.5&descAlignY=45&descAlign=77.6&desc=Hello,%20I'm%20Front-end%20Developer&fontSize=60" />
 
 <div align=center>
   
   ![d0da15be1b418b21340f4570e08cb989](https://user-images.githubusercontent.com/64674174/232813633-64bc5f99-e3c6-4395-92d0-ffa10f1af671.gif)
-
+  
   <br />
   
 # ✨ Tech Stack ✨
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-plastic&logo=babel&logoColor=white" />
 <img src="https://img.shields.io/badge/eslint-4B32C3?style=flat-plastic&logo=eslint&logoColor=white" /> <br />
   
-<br /><br />
+<br />
   
 # 🛠 Tools 🛠
 
@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 </div>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=footer" />
