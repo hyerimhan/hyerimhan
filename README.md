@@ -41,10 +41,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-plastic&logo=babel&logoColor=white" />
 <img src="https://img.shields.io/badge/eslint-4B32C3?style=flat-plastic&logo=eslint&logoColor=white" /> <br />
   
-<br />
-
-<div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyerimhan&layout=compact"></div>
-  
 <br /><br />
   
 # 🛠 Tools 🛠
