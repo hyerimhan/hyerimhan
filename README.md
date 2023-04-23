@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-plastic&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-plastic&logo=slack&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-plastic&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-plastic&logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-plastic&logo=postman&logoColor=white" /> <br />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-plastic&logo=notion&logoColor=white" /> <br />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-plastic&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-plastic&logo=adobephotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-plastic&logo=adobeillustrator&logoColor=white" />
