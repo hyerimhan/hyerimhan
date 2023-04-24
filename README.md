@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-plastic&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-plastic&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/StyledComponents/emotion-DB7093?style=flat-plastic&logo=styledcomponents&logoColor=white" />
-<img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-plastic&logo=postcss&logoColor=white" />
 <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-plastic&logo=axios&logoColor=white" /> <br />
   
 <br />
