@@ -46,6 +46,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-plastic&logo=adobephotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-plastic&logo=adobeillustrator&logoColor=white" />
   
+<br />
+  
+# 📮 Contacts 📮
+  
+<a href="https://hye-rim.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-plastic&logo=tistory&logoColor=white" /></a> 
+<a href="mailto:hnhyerim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-plastic&logo=gmail&logoColor=white" /></a>
+  
+  
+  
 </div>
 
 
