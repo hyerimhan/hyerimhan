@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,netlify" /><br />
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   
-<br />
-  
 </div>
 
 
