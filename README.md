@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   
 ### Tools
   
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,github,netlify" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,github,netlify" /><br />
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   
 <br />
