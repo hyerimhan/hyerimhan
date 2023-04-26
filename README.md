@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   
   <br />
   
-# ✨ Tech Stack ✨
+# ✨ Skills ✨
+  ### Platforms & Languages
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-plastic&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-plastic&logo=css3&logoColor=white" />
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
   
 <br />
   
-# 🛠 Tools 🛠
+### Tools
   
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-plastic&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-plastic&logo=eclipseide&logoColor=white" />
@@ -46,11 +47,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-plastic&logo=adobephotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-plastic&logo=adobeillustrator&logoColor=white" />
   
-<br />
+<br /><br /><br />
   
 # 📮 Contacts 📮
   
-<a href="https://hye-rim.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-plastic&logo=tistory&logoColor=white" /></a> 
+<a href="https://hye-rim.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory Blog-000000?style=flat-plastic&logo=tistory&logoColor=white" /></a> 
 <a href="mailto:hnhyerim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-plastic&logo=gmail&logoColor=white" /></a>
   
   
