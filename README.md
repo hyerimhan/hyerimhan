@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align=center>
   
 <!--   ![d0da15be1b418b21340f4570e08cb989](https://user-images.githubusercontent.com/64674174/232813633-64bc5f99-e3c6-4395-92d0-ffa10f1af671.gif) -->
-<p font-size="30px">Thank you for visiting my GitHub. <br /> I started my career as a markup Developer & UIUX Designer. <br /> So, I'm very interested in UIUX and interactive web. <br /><br /> I want to be a developer with high potential to grow together.</p>
+<h1>Thank you for visiting my GitHub. <br /> I started my career as a markup Developer & UIUX Designer. <br /> So, I'm very interested in UIUX and interactive web. <br /><br /> I want to be a developer with high potential to grow together.</h1>
   
   <br />
   
