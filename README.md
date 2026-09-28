@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 # ✨ Skills ✨
   ### Platforms & Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,ts,vue" /><br />
-<img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,emotion" />
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,redux" /><br />
+<img src="https://skillicons.dev/icons?i=styledcomponents,emotion,html,css,sass,jquery" />
   
 <br />
   
