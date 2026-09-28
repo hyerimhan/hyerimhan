@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <br />
   
 # ✨ Skills ✨
-  ### Platforms & Languages
+  ### Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,vue,react,redux" /><br />
 <img src="https://skillicons.dev/icons?i=styledcomponents,emotion,html,css,sass,jquery" />
